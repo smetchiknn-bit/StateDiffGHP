@@ -14,7 +14,7 @@
 
 ### URL приложения:
 ```
-https://<username>.github.io/StateDiff/
+https://<username>.github.io/StateDiffGHP/
 ```
 
 ### Как это работает:

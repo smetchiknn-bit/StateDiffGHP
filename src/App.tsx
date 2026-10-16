@@ -412,6 +412,7 @@ export default function App() {
       <div className="container mx-auto px-4 py-8 relative z-10 flex-grow flex flex-col">
         <header className="text-center mb-10">
           <div className="flex justify-center items-center gap-6 mb-4">
+            <img src="/StateDiff/logo.png" alt="Логотип" className="h-20 w-auto object-contain drop-shadow-sm" />
             <h1 className="text-4xl md:text-5xl font-bold text-green-900 tracking-tight">
               Форма БылоСтало (для СУ)
             </h1>
